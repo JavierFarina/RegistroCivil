@@ -54,16 +54,8 @@ public class Persona {
         return profesion;
     }
 
-    public String getNombreMadre() {
-        return nombreMadre;
-    }
-
     public String getRutMadre() {
         return rutMadre;
-    }
-
-    public String getNombrePadre() {
-        return nombrePadre;
     }
 
     public String getRutPadre() {
@@ -103,18 +95,9 @@ public class Persona {
         this.profesion = profesion;
     }
 
-    public void setNombreMadre(String nombreMadre) {
-        this.nombreMadre = nombreMadre;
-    }
-
     public void setRutMadre(String rutMadre) {
         this.rutMadre = rutMadre;
     }
-
-    public void setNombrePadre(String nombrePadre) {
-        this.nombrePadre = nombrePadre;
-    }
-
     public void setRutPadre(String rutPadre) {
         this.rutPadre = rutPadre;
     }
@@ -138,13 +121,11 @@ public class Persona {
         this.setNombre(nombre);
     }
     /* Le cambia el nombre a la persona mediante su rut*/
-    public void editarPersona(String rut, String nombre) {
-        this.setRut(rut);
+    public void editarPersona(String nombre) {
         this.setNombre(nombre);
     }
     /* Le cambia el nombre y/o apellido a la persona mediante su rut*/
-    public void editarPersona(String rut, String nombre, String apellido) {
-        this.setRut(rut);
+    public void editarPersona(String nombre, String apellido) {
         this.setNombre(nombre);
         this.setApellido(apellido);
     }
