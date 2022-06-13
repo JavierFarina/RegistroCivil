@@ -1,0 +1,2 @@
+Rut, Nombre, Apellido
+16.786.987-3,Ricardo,Montenegro

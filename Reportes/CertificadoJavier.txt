@@ -1,0 +1,2 @@
+Comuna,Rut,Nombre,Apellido,Fecha y Hora
+Quinta normal,20.987.654-7,Javier,Fari�a,2022/06/11 22:54:55

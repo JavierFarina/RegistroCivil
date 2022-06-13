@@ -1,6 +1,6 @@
-Region,Comuna,NombrePersona,Apellido
-Valparaiso,Quilpue,Antonia,Oyarzœn
+Region,Comuna,Nombre,Apellido
+Valparaiso,Quilpue,Antonia,Oyarzï¿½n
 Valparaiso,Villa alemana,Karen,Soto
 Valparaiso,Valparaiso,Nathalia,Trigo
 Santiago,Puente alto,Ricardo,Montenegro
-Santiago,Quinta normal,Javier,Fari–a
+Santiago,Quinta normal,Javier,Fariï¿½a
